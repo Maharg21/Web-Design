@@ -1,1 +1,3 @@
-I had some of this stuff prepped fortunately, just needed to add some more directories
+Directories are where files are stored in either your computer or another site such as Github. Directories in of themselves are files that store other files creating a tree in the system. 
+VCS helps track changes, which shows a process of how each change was done. They can also revert back to a previous version if the changes didn't seem to work in their favor. It can be shared and collaborated among other parties. 
+My artistic medium is video editing. I enjoy it because it allows me to create something enjoyable to watch and in some cases completely manipulate context into whatever I can come up with (or someone else if I'm editing something for them)
