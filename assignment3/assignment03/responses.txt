@@ -1,0 +1,6 @@
+IP Addresses are what gives networks a way to help identify a specific computer or server. 
+DNS helps in that by giving names to those users to help identify them for the IP Addreses.
+
+Cookies are tiny bits of data that identify your computer when you use a certain network. A website can store it in a web browser so it can identify the user if they visit the site again. 
+
+A URL's essential parts are the scheme (https), the subdomain (also the top and second level domains), and the subdirectory.
