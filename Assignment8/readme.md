@@ -4,3 +4,4 @@ Some of the advantages of using third party video services like Vimeo and Youtub
 
 Everything was pretty straightforward, the only thing I couldn't really do was get rid of the extra left and right space for the soundcloud link. I was following the directions on the tutorial, but whenever I typed out the margins and padding, Visual Code would mark them as errors. Not sure if it was because I'm using a newer version and they made some changes. Otherwise, everything was smooth sailing. 
 
+![screenshot](./images/screenshot.jpg) 
