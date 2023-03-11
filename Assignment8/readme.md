@@ -1,4 +1,4 @@
-Affordances are what correlates a user's ability to use an object or action. 
+An Affordance is what correlates a user's ability to use an object or action depending on their capabilities. 
 
 Some of the advantages of using third party video services like Vimeo and Youtube is the uploading is already there on the site, it's less work to set it up, all you really need to do is link it. It can be even easier if you have a Youtube or Vimeo account and upload your own videos to your own site. However if you're borrowing another video, sometimes hosting a video can be complicated depending on the copyright usages the uploader used. Oftentimes they can delete the video and it won't show up on your site. 
 
