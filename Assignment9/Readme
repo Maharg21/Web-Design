@@ -7,4 +7,4 @@ However I'm still not great at it. Hopefully this slower approach will be better
 Also, I tried using the nav and div, but I kept getting errors mostly using the ":" for some odd reason, so the pages are linked together at the bottom. (not in a very visually pleasing way unfortunately) 
 It was taking me too long to fix it, so I just used standard hyperlinks at the bottom
 
-![screenshot](./images/screenshot2.jpg)  < - - not sure why this isn't working when it's worked before
+![screenshot](./screenshots/screenshot2.jpg) 
