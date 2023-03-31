@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(241, 244, 90);
+    font-family: Ariel;
+    text-align: center;
+} 
+
+
+img {
+    border-radius: 50%;
+    border: 10px solid black;
+} 
+
+.portrait {
+    background-color: rgb(98, 147, 244); 
+    height: 700px;
+    width: 700px; 
+    display: inline-block;
+} 
+
+#title {
+    font-size: 100
+}
