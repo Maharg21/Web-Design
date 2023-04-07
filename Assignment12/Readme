@@ -1,0 +1,4 @@
+Typography is the style and usage of written print designed to be visually pleasing to either read or gloss over.
+Fallback fonts/font stacks are a backup font containing particular symbols the engine runs if it can't find the primary font a site uses. 
+System fonts are a series of fonts provided by Windows/Apple computers, they're basically home to common default fonts such as Serif. Web fonts are fonts that are primarily used by a particular design of a website that isn't already installed by the user. Web-safe fonts much like system fonts are fonts that are the most commonly used (mainly by Microsoft). These fonts are the most compatabile and are considered "web-safe" 
+
