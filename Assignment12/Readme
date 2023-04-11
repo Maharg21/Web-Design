@@ -11,7 +11,7 @@ much like system fonts are fonts that are the most commonly used (mainly by Micr
 
 ![screenshot](./images/screenshot.jpg)
 
-So this exact label was used in Assignment 8 as an example, I named my screenshot "screenshot.jpg", the label "[screenshot]" was underlined, everything worked as it should. 
+So this exact label was used in Assignment 8 as an example, I named my screenshot "screenshot.jpg", the label "[screenshot]" was underlined, everything worked as it should and the image was displayed. 
 
 For Assignment 12 (this one) I use the exact same label here, along with naming my screenshot "screenshot.jpg" (copy/pasted as a matter of fact) and here it doesn't work.
 I tried making a complete separate folder, renaming labels and the screenshot, don't know what the issue is.
