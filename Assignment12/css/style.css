@@ -1,0 +1,52 @@
+#header{
+    background-image: url("../images/baldmountain.jpg"); 
+} 
+
+h1{
+    color:darkslategray;
+    font-family: Alkatra; 
+    font-size: 120px; 
+    letter-spacing: 0.3em;
+}  
+
+#title:hover{
+    letter-spacing: 1.5em;
+    font-weight: 700; 
+    color:firebrick
+}
+
+.titleBorder{
+    height: 200px; 
+    background-color:beige;
+    color:darkslategray;
+} 
+
+.titleBorder:hover{
+    background-color:deepskyblue; 
+    color:cadetblue; 
+    text-indent: 12em; 
+    font-family: Alkatra; 
+}
+
+.subtitle{
+    padding-top: 60px;
+    font-size: 75px;
+    margin: auto;
+} 
+
+.content-paragraph{
+    font-size: 25px;
+    font-family: Alkatra;
+    line-height: 40px
+} 
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;    
+} 
+
+img {
+    border: 22px solid lightskyblue
+}

@@ -1,8 +1,10 @@
 @font-face {
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
-    src: url('../fonts/Haettenschweiler.ttf') format('truetype'); 
+    font-family:'Alkatra';
+    src: url('../fonts/Alkatra-VariableFont.ttf') format('truetype'); 
     font-style: normal;
 } 
 @font-face {
-    font-family:
+    font-family:'Alkatra-Bold';
+    src: url('../fonts/Alkatra-Bold.ttf') format('truetype'); 
+    font-weight: 600;
 }
