@@ -5,3 +5,4 @@ Not too many challenges, just wanted to make a simple boring site that wasn't to
 figure out was in the "more" dropdown menu, there's this extra space when you move your cursor down, you can't really get to the other links without it disappearing. I assume I put in the wrong Margins or Padding, but there wasn't anything in the pseudo-selectors
 indicating anything. I didn't want to potentially break something adding some in, so I just left it as is (Also the links don't lead to anywhere when you click on them fyi). 
 
+![screenshot](./images/screenshot.jpg)
