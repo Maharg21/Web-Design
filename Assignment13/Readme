@@ -1,0 +1,7 @@
+Borders are the main shapes that surrounds the content it's in. Padding determines the amount of space the content has in between the border. Margins are what defines the space around the content (top, bottom, left, right). 
+
+Not exactly sure what I did, but I just went back to my site from last week to add this week's content in to not start from scratch. Strangely just adding the dropdown menus somehow fixed the issue (I might've not saved and uploaded an unsaved index/css)
+Not too many challenges, just wanted to make a simple boring site that wasn't too complicated. I did wish within the first title border's hover, I couldn't figure out how to get rid of the extra space so you don't have to scroll down. Another thing I couldn't
+figure out was in the "more" dropdown menu, there's this extra space when you move your cursor down, you can't really get to the other links without it disappearing. I assume I put in the wrong Margins or Padding, but there wasn't anything in the pseudo-selectors
+indicating anything. I didn't want to potentially break something adding some in, so I just left it as is (Also the links don't lead to anywhere when you click on them fyi). 
+
