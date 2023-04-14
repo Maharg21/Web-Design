@@ -1,0 +1,137 @@
+#header{
+    background-image: url("../images/baldmountain.jpg"); 
+} 
+
+h1{
+    color:darkslategray;
+    font-family: Alkatra; 
+    font-size: 120px; 
+    letter-spacing: 0.3em;
+} 
+
+.titleBorder{
+    height: 100px;
+    background-color:black; 
+    width:100%;
+    overflow: auto; 
+} 
+
+#first-bar {
+    margin-top: 4em;
+    padding: 1em;
+}
+
+#title:hover{
+    letter-spacing: 0.3em;
+    font-weight: 700; 
+    color:firebrick
+}
+
+.titleBorder:hover{
+    background-color:darkblue; 
+    color:cadetblue; 
+    text-indent: 1.5em; 
+    font-family: Alkatra; 
+}
+
+.subtitle{
+    padding-top: 60px;
+    font-size: 75px;
+    margin: auto;
+} 
+
+.content-paragraph{
+    font-size: 25px;
+    font-family: Alkatra;
+    line-height: 40px;
+    text-align: center;
+} 
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;    
+} 
+
+img {
+    border: 22px solid darkolivegreen
+} 
+
+/* Menu things*/ 
+.menu-item {
+    display: inline-block;
+    margin: 1em .2em;
+    min-width: 8em;
+    text-align: center;
+    background-color:black;
+    padding: 1em 1.5;
+    border-radius: 1em;
+} 
+
+.site-name {
+    color:bisque;
+    margin: 1em .3em;
+    min-width: 6em;
+    padding: 0.5em 1em;
+    border-radius: 1em;
+    letter-spacing: 0.5em; 
+    float: left;
+    font-weight: bold;
+} 
+
+.menu-item:hover {
+    background-color:cornflowerblue;
+    color:white;
+} 
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    margin: 0.5em 0 0 -1em;
+    color:white; 
+    background-color:cornflowerblue;
+    z-index: 1;
+    border-radius: 0em 0em 0.5em 0.5em; 
+} 
+.dropdown-content a {
+    color:white
+} 
+
+.dropdown:hover .dropdown-content {
+    display: block;
+} 
+
+.dropdown-item {
+    display: block;
+    text-align: center;
+    margin: 0;
+    padding: 0.5em 1em 0.5em 1em; 
+    min-width: 6em;
+} 
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color:white;
+    background-color:cornflowerblue;
+} 
+
+.dropdown:hover{
+    border-radius: 1em 1em 0em 0em;
+} 
+
+#foundation:hover{
+    border-radius: 0em 0em 1em 1em;
+} 
+footer {
+    width: 100%;
+    background-color:darkgoldenrod;
+    height: 3em;
+    text-align: center;
+    font-family: Alkatra;
+    padding-top: 1em;
+} 
+
+#footer-link {
+    color:brown;
+    font-weight: bold;
+}
